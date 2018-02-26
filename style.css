@@ -1,0 +1,17 @@
+body{
+  background-color: :pink;
+}
+.order-form .display-form{
+    width: 80%;
+    margin: 0 auto 1px;
+    padding: 1px;
+    border: 1px solid silver;
+    border-radius: 4px;
+}
+.display-form table{
+  width:100%;
+}
+.display-form  table th{
+  text-align: left;
+  border-bottom: 1px solid black;
+}
